@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace DotnetBackend
+namespace DotnetBackendBolierplate.WebApi
 {
     public class Program
     {
